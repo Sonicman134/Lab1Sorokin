@@ -1,0 +1,17 @@
+D:\Сорокин\Lab1\Lab1.Testsaaa\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\Сорокин\Lab1\Lab1.Testsaaa\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\Сорокин\Lab1\Lab1.Testsaaa\bin\Debug\ru\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\Сорокин\Lab1\Lab1.Testsaaa\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Сорокин\Lab1\Lab1.Testsaaa\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Сорокин\Lab1\Lab1.Testsaaa\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Сорокин\Lab1\Lab1.Testsaaa\bin\Debug\Lab1.Testsaaa.dll
+D:\Сорокин\Lab1\Lab1.Testsaaa\bin\Debug\Lab1.Testsaaa.pdb
+D:\Сорокин\Lab1\Lab1.Testsaaa\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Сорокин\Lab1\Lab1.Testsaaa\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Сорокин\Lab1\Lab1.Testsaaa\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Сорокин\Lab1\Lab1.Testsaaa\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Сорокин\Lab1\Lab1.Testsaaa\obj\Debug\Lab1.Testsaaa.csproj.AssemblyReference.cache
+D:\Сорокин\Lab1\Lab1.Testsaaa\obj\Debug\Lab1.Testsaaa.csproj.CoreCompileInputs.cache
+D:\Сорокин\Lab1\Lab1.Testsaaa\obj\Debug\Lab1.Testsaaa.csproj.CopyComplete
+D:\Сорокин\Lab1\Lab1.Testsaaa\obj\Debug\Lab1.Testsaaa.dll
+D:\Сорокин\Lab1\Lab1.Testsaaa\obj\Debug\Lab1.Testsaaa.pdb

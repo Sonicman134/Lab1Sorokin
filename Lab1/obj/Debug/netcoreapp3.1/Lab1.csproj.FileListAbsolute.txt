@@ -1,0 +1,14 @@
+D:\Сорокин\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.AssemblyReference.cache
+D:\Сорокин\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Сорокин\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfoInputs.cache
+D:\Сорокин\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.AssemblyInfo.cs
+D:\Сорокин\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.csproj.CoreCompileInputs.cache
+D:\Сорокин\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.exe
+D:\Сорокин\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.deps.json
+D:\Сорокин\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.json
+D:\Сорокин\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.runtimeconfig.dev.json
+D:\Сорокин\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.dll
+D:\Сорокин\Lab1\Lab1\bin\Debug\netcoreapp3.1\Lab1.pdb
+D:\Сорокин\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.dll
+D:\Сорокин\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.pdb
+D:\Сорокин\Lab1\Lab1\obj\Debug\netcoreapp3.1\Lab1.genruntimeconfig.cache
